@@ -39,6 +39,7 @@ def PlotCumulativeMovingAverage(ticker, start_date, project_folder):
 
     # CMA - Cumulative Moving Average
     data['CMA'] = data.average_close_price.expanding().mean()
+    data.to_csv(os.path.join(project_folder, 'calculated_data' + ticker + '.csv'))
 
     plt.figure(figsize=(12, 5))
     plt.plot(data.Close, color='green')
