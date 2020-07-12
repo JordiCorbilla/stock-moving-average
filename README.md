@@ -4,13 +4,13 @@ This repo contains the implementation of 3 well-known Moving Average calculation
 
 ## 1) Simple Moving Average
 
-![](https://github.com/JordiCorbilla/stock-moving-average/blob/master/Alphabet%20Inc_price_SMA.png)
+![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_SMA.png)
 
 
 ## 2) Cumulative Moving Average
 
-![](https://github.com/JordiCorbilla/stock-moving-average/blob/master/Alphabet%20Inc_price_CMA.png)
+![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_CMA.png)
 
 ## 3) Exponential Moving Average
 
-![](https://github.com/JordiCorbilla/stock-moving-average/blob/master/Alphabet%20Inc_price_EMA.png)
+![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_EMA.png)
