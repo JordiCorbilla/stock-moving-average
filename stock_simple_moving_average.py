@@ -43,7 +43,7 @@ def PlotSimpleMovingAverage(ticker, start_date, project_folder):
     # the simple moving average over a period of 180 days
     data['SMA_180'] = data.average_close_price.rolling(180, min_periods=1).mean()
     data.to_csv(os.path.join(project_folder, 'calculated_data' + ticker + '.csv'))
-    
+
     plt.figure(figsize=(12, 5))
     plt.plot(data.Close, color='green')
     plt.plot(data.SMA_90, color='red')
