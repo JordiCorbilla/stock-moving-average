@@ -6,6 +6,8 @@ Most of the source code is based on my previous work here [Stock prediction usin
 
 ## 1) Simple Moving Average
 
+90 day SMA on Google's stock Price
+
 ![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_SMA.png)
 
 ## 2) Cumulative Moving Average
