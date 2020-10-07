@@ -8,12 +8,12 @@ Most of the source code is based on my previous work here [Stock prediction usin
 
 90 day SMA on Google's stock Price
 
-![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_SMA.png)
+![](Alphabet%20Inc_price_SMA.png)
 
 ## 2) Cumulative Moving Average
 
-![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_CMA.png)
+![](Alphabet%20Inc_price_CMA.png)
 
 ## 3) Exponential Moving Average
 
-![](https://github.com/JordiCorbilla/stock-moving-average/raw/master/Alphabet%20Inc_price_EMA.png)
+![](Alphabet%20Inc_price_EMA.png)
